@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # CP Daily Bot - Contest Reminder
+=======
+ # LeetCode Daily Challenge WhatsApp Bot
+>>>>>>> 9f77d74b23b32ff2f336f690d08a9134260fe273
 
 This script checks for upcoming competitive programming contests from **LeetCode** and **CodeChef** and sends a reminder to a specific WhatsApp group if any contests are scheduled for **tomorrow**.
 
